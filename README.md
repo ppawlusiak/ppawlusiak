@@ -1,4 +1,5 @@
 ### Hi there 👋
+## Hello, my name is Piotr. I started programming in Flutter in July 2023. I would like to share my code with you. Thank you for any help and suggestions. Best regards and good luck :).
 
 <!--
 **ppawlusiak/ppawlusiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
