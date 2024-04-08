@@ -1,5 +1,5 @@
 # Hello, my name is Piotr.
-## I started programming in Flutter in July 2023. I would like to share my code with you.
+## I started programming in Dart/Flutter in July 2023. I would like to share my code with you.
 ## Thank you for any help and suggestions.
 ## Best regards and good luck ☺️.
 <!--
